@@ -1,0 +1,13 @@
+#bm{
+    border: 10px solid purple;
+    text-align: center;
+}
+
+input{
+    margin: 10px;
+}
+
+#bombs img{
+    width: 25px; 
+    margin: 0px 5px 10px 5px;
+}
